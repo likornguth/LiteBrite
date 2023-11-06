@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "dat.gui": "^0.7.9",
+    "papaparse": "^5.4.1",
+    "three": "^0.158.0"
+  },
+  "devDependencies": {
+    "@types/dat.gui": "^0.7.11",
+    "vite": "^4.5.0"
+  }
+}

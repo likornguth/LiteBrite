@@ -1,10 +1,11 @@
 
 # Interactive 3D Mickey Mouse Display with Customizable Lighting
-<img width="1129" alt="Screenshot 2023-11-07 at 3 27 36 PM" src="https://github.com/likornguth/LiteBrite/assets/97198397/62a25d17-03c3-4da0-bbda-64e5785f51a0">
+<img width="1316" alt="Screenshot 2023-11-08 at 12 37 19 PM" src="https://github.com/likornguth/LiteBrite/assets/97198397/128ae6c0-339a-4c42-87ea-8cbbfd07f0de">
 
 [Check it out here](https://lite-brite-mickey.vercel.app/)
 ## Project Description:
 This technical project involves creating an interactive 3D scene that recreates a classic children's toy and a customizable lighting setup using the Three.js library. The scene consists of a 3D Mickey Mouse lightbox and a desk-like structure, with various elements that can be controlled and customized.
+![mickeylitebrite](https://github.com/likornguth/LiteBrite/assets/97198397/31094b2a-5cf7-4dab-ac5b-b2d805e4555d)
 
 ## Key Components and Features:
 
